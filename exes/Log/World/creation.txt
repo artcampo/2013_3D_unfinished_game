@@ -1,0 +1,3 @@
+Mountain at: 506, 0, 506 AproxArea: 15059 Height: 80
+Mountain at: 497, 0, 503 AproxArea: 32190 Height: 80
+Mountain at: 496, 0, 466 AproxArea: 79902 Height: 80

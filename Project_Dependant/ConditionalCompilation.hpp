@@ -1,0 +1,9 @@
+#ifndef _CONDITIONAL_COMPILATION_HPP
+#define _CONDITIONAL_COMPILATION_HPP
+
+//#define _WINDOWS_VISUAL_STUDIO_MEAM_LEAK_ENABLE
+
+// graphic output via windows
+//#define _DP_DX_WINDOWS_ERROR_DISPLAY_
+
+#endif

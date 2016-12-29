@@ -1,0 +1,20 @@
+------------------------------------------------------------------------
+
+HPP:
+#include  "Project_Dependant/LogConditionalCompilation.hpp"
+#ifdef _LOG_ENABLE_
+  class Log;
+#endif
+
+#ifdef _LOG_ENABLE_
+  std::auto_ptr<Log>                  mLog;
+#endif
+
+------------------------------------------------------------------------
+
+CPP:
+
+#include  "Project_Dependant/LogConditionalCompilation.hpp"
+#ifdef _LOG_ENABLE_
+  #include  "Misc/Log.hpp"  
+#endif

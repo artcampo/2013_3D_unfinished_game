@@ -1,0 +1,10 @@
+- Make sure all shaders are outputted with 
+  SetRasterizerState( CullBack );
+
+- Onresize
+
+- mouse movement dependent of increment
+
+- initialize mouse pos, max/min
+
+- pong to objed code

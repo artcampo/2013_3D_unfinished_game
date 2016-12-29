@@ -1,0 +1,3 @@
+At each in-game frame the function
+  Game::keyboardShipPlayer
+must be called so its forces are properly updated.

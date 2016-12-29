@@ -1,0 +1,11 @@
+Points of interest
+1- colony: main           1km from 1, 2
+2- colony: industrial     1km from 1, 2
+3- colony: residential    1km from 1, 2
+4- the abyss
+5- nuclear plant          within shore
+6- sunken bridge          joining two shores
+7- airport
+8- sea
+9- train rails connecting different city centers
+10- sunken ship

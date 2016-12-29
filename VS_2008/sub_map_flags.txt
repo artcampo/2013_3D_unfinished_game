@@ -1,0 +1,12 @@
+Microsoft (R) C++ Name Undecorator
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Undecoration of :- "ADDRESS"
+is :- "ADDRESS"
+
+Undecoration of :- "undname"
+is :- "undname"
+
+Undecoration of :- "/show_flags"
+is :- "/show_flags"
+

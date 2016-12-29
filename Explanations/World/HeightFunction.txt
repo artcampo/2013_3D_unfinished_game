@@ -1,0 +1,15 @@
+A class which given a (x,z) returns the height.
+
+Composition of convex hulls 2d. Any point that
+is inside a ch is influenced by the height of
+that convex hull.
+
+Each zone is thus two convex hulls, one marking
+the end of the reach of that zone, and the other
+marking the zone of constant height.
+
+For the making of the world's frontier one zone
+is used.
+
+Other zones that need an height zone:
+  -
